@@ -1,2 +1,3 @@
-# loopindex-assets
-Assets for various public web apps
+## loopindex-assets
+
+Assets for LoopIndex public web apps
